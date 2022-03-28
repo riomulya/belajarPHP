@@ -20,7 +20,7 @@
     echo "<h1>Daftar Menu</h1>"
     ?>
 
-    <table style="">
+    <table>
         <?php
         printf(
             "<tr>
